@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KryptonTest", "KryptonTest\KryptonTest.csproj", "{AE01A5DE-C698-4948-A265-4477DAF19B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Krypton.Toolkit 2022", "..\..\..\..\..\git\Krypton-Standard-Toolkit\Source\Krypton Components\Krypton.Toolkit\Krypton.Toolkit 2022.csproj", "{26439A30-FDD3-477C-ACCE-BDD7E44A657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Canary|Any CPU = Canary|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Installer|Any CPU = Installer|Any CPU
+		Nightly|Any CPU = Nightly|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Canary|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Canary|Any CPU.Build.0 = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Installer|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Installer|Any CPU.Build.0 = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Nightly|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Nightly|Any CPU.Build.0 = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE01A5DE-C698-4948-A265-4477DAF19B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Canary|Any CPU.ActiveCfg = Canary|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Canary|Any CPU.Build.0 = Canary|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Installer|Any CPU.ActiveCfg = Installer|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Installer|Any CPU.Build.0 = Installer|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Nightly|Any CPU.ActiveCfg = Nightly|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Nightly|Any CPU.Build.0 = Nightly|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26439A30-FDD3-477C-ACCE-BDD7E44A657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B952D6-D7D8-4600-BFEE-DE28BF8F905F}
+	EndGlobalSection
+EndGlobal
